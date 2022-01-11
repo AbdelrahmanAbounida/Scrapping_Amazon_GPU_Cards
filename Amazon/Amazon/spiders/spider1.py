@@ -1,6 +1,4 @@
-# lesson 1
 
-# scrapy fetch url >>  It fetches the URL using Scrapy downloader.
 
 import scrapy
 
